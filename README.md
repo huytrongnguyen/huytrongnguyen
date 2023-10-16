@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🔭 I'm software and data enthusiasts, the one who is passionate about implementing effective data solutions that will assist business in gaining access to reliable and high-quality data in order to make better decisions
+
+![huytrongnguyen stats](https://github-readme-stats.vercel.app/api?username=huytrongnguyen&show_icons=true)
+![huytrongnguyen languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huytrongnguyen&show_icons=true&count_private=true&layout=compact)
+
+📫 You can reach me on [GitHub](https://github.com/huytrongnguyen), [LinkedIn](https://www.linkedin.com/in/lionel-nguyen-06a687109/)
+
 <!--
 **huytrongnguyen/huytrongnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -5,7 +5,7 @@
 ![huytrongnguyen stats](https://github-readme-stats.vercel.app/api?username=huytrongnguyen&show_icons=true)
 ![huytrongnguyen languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huytrongnguyen&show_icons=true&count_private=true&layout=compact)
 
-### 2 videos change my carreer path
+### 2 videos changed my carreer path
 
 From Developer to Frontend Engineer
 

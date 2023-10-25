@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm software and data science tinkerer, the one who is passionate about implementing effective data solutions that will assist business in gaining access to reliable and high-quality data in order to make better decisions
+🔭 I'm software and data tinkerer, the one who is passionate about implementing effective data solutions that will assist business in gaining access to reliable and high-quality data in order to make better decisions
 
 ![huytrongnguyen stats](https://github-readme-stats.vercel.app/api?username=huytrongnguyen&show_icons=true)
 ![huytrongnguyen languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huytrongnguyen&show_icons=true&count_private=true&layout=compact)

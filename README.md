@@ -20,6 +20,7 @@
   <img align="left" alt="Lionel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+
 ### 2 videos changed my carreer path
 
 From Developer to Frontend Engineer

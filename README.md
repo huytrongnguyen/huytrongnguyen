@@ -5,6 +5,11 @@
 ![huytrongnguyen stats](https://github-readme-stats.vercel.app/api?username=huytrongnguyen&show_icons=true)
 ![huytrongnguyen languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huytrongnguyen&show_icons=true&count_private=true&layout=compact)
 
+### Stories
+
+* ![Lessons learnt from “The Clean Code” — Robert C. Martin](https://medium.com/@huytrongnguyen1985/lessons-learnt-from-the-clean-code-robert-c-martin-cecbe2b09139)
+* ![JavaScript Keynotes](https://medium.com/@huytrongnguyen1985/javascript-keynotes-25c94e292bc0)
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/lionel-nguyen-06a687109/">

@@ -1,9 +1,21 @@
 ### Hi there 👋
 
-🔭 I'm software and data enthusiasts, the one who is passionate about implementing effective data solutions that will assist business in gaining access to reliable and high-quality data in order to make better decisions
+🔭 I'm software and data science tinkerer, the one who is passionate about implementing effective data solutions that will assist business in gaining access to reliable and high-quality data in order to make better decisions
 
 ![huytrongnguyen stats](https://github-readme-stats.vercel.app/api?username=huytrongnguyen&show_icons=true)
 ![huytrongnguyen languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huytrongnguyen&show_icons=true&count_private=true&layout=compact)
+
+### 2 videos change my carreer path
+
+From Developer to Frontend Engineer
+
+[<img src="https://img.youtube.com/vi/DqMFX91ToLw/hqdefault.jpg" width="800" height="600"
+/>](https://www.youtube.com/embed/DqMFX91ToLw)
+
+From Frontend Engineer to Data Science Tinkerer
+
+[<img src="https://img.youtube.com/vi/xC-c7E5PK0Y/hqdefault.jpg" width="800" height="600"
+/>](https://www.youtube.com/embed/xC-c7E5PK0Y)
 
 ### Stories
 

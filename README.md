@@ -5,18 +5,6 @@
 ![huytrongnguyen stats](https://github-readme-stats.vercel.app/api?username=huytrongnguyen&show_icons=true)
 ![huytrongnguyen languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huytrongnguyen&show_icons=true&count_private=true&layout=compact)
 
-### 2 videos changed my carreer path
-
-From Developer to Frontend Engineer
-
-[<img src="https://img.youtube.com/vi/DqMFX91ToLw/hqdefault.jpg" width="800" height="600"
-/>](https://www.youtube.com/embed/DqMFX91ToLw)
-
-From Frontend Engineer to Data Science Tinkerer
-
-[<img src="https://img.youtube.com/vi/xC-c7E5PK0Y/hqdefault.jpg" width="800" height="600"
-/>](https://www.youtube.com/embed/xC-c7E5PK0Y)
-
 ### Stories
 
 * [Lessons learnt from “The Clean Code” — Robert C. Martin](https://medium.com/@huytrongnguyen1985/lessons-learnt-from-the-clean-code-robert-c-martin-cecbe2b09139)
@@ -31,6 +19,18 @@ From Frontend Engineer to Data Science Tinkerer
 <a href="https://github.com/huytrongnguyen">
   <img align="left" alt="Lionel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
+### 2 videos changed my carreer path
+
+From Developer to Frontend Engineer
+
+[<img src="https://img.youtube.com/vi/DqMFX91ToLw/hqdefault.jpg" width="800" height="600"
+/>](https://www.youtube.com/embed/DqMFX91ToLw)
+
+From Frontend Engineer to Data Science Tinkerer
+
+[<img src="https://img.youtube.com/vi/xC-c7E5PK0Y/hqdefault.jpg" width="800" height="600"
+/>](https://www.youtube.com/embed/xC-c7E5PK0Y)
 
 <!--
 **huytrongnguyen/huytrongnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,8 +7,8 @@
 
 ### Stories
 
-* ![Lessons learnt from “The Clean Code” — Robert C. Martin](https://medium.com/@huytrongnguyen1985/lessons-learnt-from-the-clean-code-robert-c-martin-cecbe2b09139)
-* ![JavaScript Keynotes](https://medium.com/@huytrongnguyen1985/javascript-keynotes-25c94e292bc0)
+* [Lessons learnt from “The Clean Code” — Robert C. Martin](https://medium.com/@huytrongnguyen1985/lessons-learnt-from-the-clean-code-robert-c-martin-cecbe2b09139)
+* [JavaScript Keynotes](https://medium.com/@huytrongnguyen1985/javascript-keynotes-25c94e292bc0)
 
 ### Connect with me:
 

@@ -75,18 +75,6 @@
 * [Lessons learnt from “The Clean Code” — Robert C. Martin](https://medium.com/@huytrongnguyen1985/lessons-learnt-from-the-clean-code-robert-c-martin-cecbe2b09139)
 * [JavaScript Keynotes](https://medium.com/@huytrongnguyen1985/javascript-keynotes-25c94e292bc0)
 
-### 2 videos changed my carreer path
-
-From Developer to Frontend Engineer
-
-[<img src="https://img.youtube.com/vi/DqMFX91ToLw/hqdefault.jpg" width="800" height="600"
-/>](https://www.youtube.com/embed/DqMFX91ToLw)
-
-From Frontend Engineer to Data Science Tinkerer
-
-[<img src="https://img.youtube.com/vi/xC-c7E5PK0Y/hqdefault.jpg" width="800" height="600"
-/>](https://www.youtube.com/embed/xC-c7E5PK0Y)
-
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/lionel-nguyen-06a687109/">

@@ -16,15 +16,6 @@
 * [Lessons learnt from “The Clean Code” — Robert C. Martin](https://medium.com/@huytrongnguyen1985/lessons-learnt-from-the-clean-code-robert-c-martin-cecbe2b09139)
 * [JavaScript Keynotes](https://medium.com/@huytrongnguyen1985/javascript-keynotes-25c94e292bc0)
 
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/lionel-nguyen-06a687109/">
-  <img align="left" alt="Lionel's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://github.com/huytrongnguyen">
-  <img align="left" alt="Lionel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <!--
 **huytrongnguyen/huytrongnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
